@@ -57,16 +57,6 @@ Crop-Recommendation/
 
 ---
 
-## Methodology
-
-The project follows the workflow below:
-
-1. Load historical rainfall and crop datasets.
-2. Perform data preprocessing and normalization.
-3. Train an Artificial Neural Network for rainfall prediction.
-4. Evaluate model performance using regression metrics.
-5. Apply Fuzzy Logic rules for season classification.
-6. Recommend the most suitable crop based on predicted rainfall.
 
 ---
 ## Methodology
@@ -90,11 +80,6 @@ The project follows the workflow below:
 
 ---
 
-## Performance Evaluation
-
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
 ## Performance Evaluation
 
 The ANN model is evaluated using:
