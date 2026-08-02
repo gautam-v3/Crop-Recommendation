@@ -132,6 +132,14 @@ This project utilizes:
 Both datasets are available in the `data` directory.
 
 ---
+## Rainfall Trend Analysis
+
+The figure below shows the average monthly rainfall pattern for Shimla (2000–2024). This analysis provides the historical rainfall trends used to train the Artificial Neural Network (ANN).
+
+<p align="center">
+  <img src="images/rainfall_trend.png" alt="Mean Monthly Rainfall Pattern" width="700"/>
+</p>
+
 
 ## Future Improvements
 
