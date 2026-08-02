@@ -140,6 +140,14 @@ The figure below shows the average monthly rainfall pattern for Shimla (2000–2
   <img src="images/rainfall_trend.png" alt="Mean Monthly Rainfall Pattern" width="700"/>
 </p>
 
+## Model Results
+
+The following figures show the ANN training process, prediction performance, and fuzzy membership functions used for crop recommendation.
+
+<p align="center">
+  <img src="images/model_results.png" alt="Model Results" width="900"/>
+</p>
+
 
 ## Future Improvements
 
