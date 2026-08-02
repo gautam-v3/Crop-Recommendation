@@ -142,6 +142,11 @@ Both datasets are available in the `data` directory.
 - Enhanced recommendation using additional soil and climate parameters
 
 ---
+## Prediction Output
+
+<p align="center">
+  <img src="images/prediction_output.png" alt="Prediction Output" width="700"/>
+</p>
 
 ## Author
 
