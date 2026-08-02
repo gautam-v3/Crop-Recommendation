@@ -105,6 +105,22 @@ The ANN model is evaluated using:
 
 ---
 
+---
+
+## Model Summary
+
+| Parameter | Value |
+|-----------|-------|
+| Model | Artificial Neural Network (ANN) |
+| Framework | TensorFlow / Keras |
+| Input Features | Historical rainfall data |
+| Output | Predicted rainfall |
+| Crop Recommendation | Fuzzy Logic |
+| Evaluation Metrics | MAE, MSE, RMSE |
+
+---
+
+
 ## Installation
 
 Clone the repository
